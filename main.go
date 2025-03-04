@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"repos" // ваш пакет
+	"module/repos" // ваш пакет
 )
 
 func main() {
